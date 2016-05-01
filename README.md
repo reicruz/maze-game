@@ -8,6 +8,9 @@ Intro to Object-Oriented Programming final project. Simple Java applet maze game
 
 ### Setup
 
-Simply clone or download the project and run `java -jar Game.jar`
+Simply clone or download the project and run:
+
+`java -jar Game.jar`
+
 
 ![alt tag](res/menupanel.jpg)
