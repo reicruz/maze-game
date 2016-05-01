@@ -13,4 +13,4 @@ Simply clone or download the project and run:
 `java -jar Game.jar`
 
 
-![alt tag](res/menupanel.jpg)
+![alt tag](res/menu_panel.jpg)
